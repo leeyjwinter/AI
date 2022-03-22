@@ -53,3 +53,5 @@ p4.join()
 # car(panel, 320, 30)
 # car(panel, 330, 100)
 # car(panel, 340, 200)
+
+print("Hello")
