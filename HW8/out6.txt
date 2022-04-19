@@ -1,0 +1,2 @@
+Japan average : 8043.103448275862
+Korea average   : 3374.0
